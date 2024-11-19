@@ -1,12 +1,14 @@
-####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+style: "style3 orient-right content-align-right image-position-right fullscreen onload-image-fade-right onload-content-fade-right"
+id: "banner"
+title : "Janine und Markus heiraten"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  ein Leben lang ...
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Willkommen auf unserer Hochzeitswebseite! Wir, Markus und Janine, freuen uns, diesen besonderen Moment in unserem Leben
+  mit euch zu teilen. Unter dem Motto „Ein Leben lang“ laden wir euch herzlich ein, unsere Hochzeit am 23.08.2025 mit
+  uns zu feiern.
 button:
-  label : "Get Started"
-  link : "#first"
+  label: "Feiert ihr mit uns?"
+  target: "_blank"
+  link: "https://forms.office.com/r/jC6iwnrdcF"
 image : "images/banner.jpg"
-

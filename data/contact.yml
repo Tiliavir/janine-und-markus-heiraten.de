@@ -1,0 +1,33 @@
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "contact"
+title: Kontakt
+content: |
+  Falls ihr Fragen zu unserer Hochzeit habt oder uns etwas mitteilen möchtet, zögert nicht, uns oder unsere Trauzeugen
+  zu kontaktieren. Wir freuen uns auf eure Nachrichten und sind gerne für euch da!
+contacts:
+  - name: Annika
+    description:
+    image: annika
+    sex: female
+    mobile: "+49 1575 518 9522"
+    mail: "annika.wienecke@email.com"
+  - name: Janine
+    description:
+    image: janine
+    sex: female
+    mobile: "+41 79 610 48 33"
+    mail: "janine.lindenmann@gmail.com"
+  - name: Markus
+    description:
+    image: markus
+    sex: male
+    phone: "+49 1520 270 9712"
+    mobile: "+41 79 870 86 29"
+    mail: "markus.lindenmann@gmail.com"
+  - name: Alex
+    description:
+    image: alex
+    sex: male
+    mobile: "+41 78 226 25 45"
+    mail: "oleksii.saukh@email.com"
+

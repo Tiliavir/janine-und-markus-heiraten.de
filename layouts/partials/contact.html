@@ -1,0 +1,14 @@
+<article class="contact {{ .sex }}">
+    <figure class="profile-img">
+        <img src="/images/person/{{ .image }}.jpg" alt="profile picture" class="profile-pic">
+    </figure>
+    <section class="profile-info">
+        <h2 class="profile-name">{{ .name }}</h2>
+        <p class="profile-bio">{{ .description }}</p>
+    </section>
+    <nav class="social-links">
+        {{ with .mail }}<a class="icon fa-envelope" href="mailto:{{ . }}"></a>{{end}}
+        {{ with .phone }}<a class="icon fa-phone" href="tel:{{ . }}"></a>{{end}}
+        {{ with .mobile }}<a class="icon fa-mobile" href="tel:{{ . }}"></a>{{end}}
+    </nav>
+</article>

@@ -1,0 +1,26 @@
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "location"
+title : "Location"
+isMarkdown: true
+content: |
+  Unsere Hochzeit findet in der wunderschönen Lafette in Hinterzarten statt:
+  
+  ```
+  Lafette Hinterzarten
+  Erlenbrucker Str. 18
+  79856 Hinterzarten, Deutschland
+  ```
+
+  - **Freie Trauung**
+      Die Zeremonie wird im malerischen Außenbereich der Lafette stattfinden. Bei schlechtem Wetter steht uns eine
+      charmante Indoor-Alternative zur Verfügung.
+  - **Sektempfang und Feier**
+      Direkt nach der Trauung laden wir zu einem Sektempfang ein, gefolgt von unserer Feier, die ebenfalls in der
+      Lafette stattfindet.
+
+  Besondere Hinweise:
+
+  - Parkmöglichkeiten stehen vor Ort zur Verfügung.
+  - Bitte beachtet, dass die Trauung und Feier sowohl drinnen als auch draußen stattfindet. Dem Wetter entsprechende
+    Kleidung ist empfohlen.
+image: "images/spotlight02.jpg"

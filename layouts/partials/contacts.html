@@ -1,0 +1,12 @@
+<section class="wrapper style1 align-left" id="{{ .id }}">
+    <div class="inner">
+        <h2>{{ .title }}</h2>
+        <p>{{ .content | markdownify }}</p>
+
+        <div class="contacts {{ .style }}">
+            {{ range .contacts }}
+            {{ partial "contact" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>

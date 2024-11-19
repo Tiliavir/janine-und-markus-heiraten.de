@@ -1,0 +1,138 @@
+@import "variables";
+
+// Define a mixin for the animated border effect with inlined variables
+@mixin animated-border($color: #FA6900, $border: 10px, $offset: 30px, $gap: 5px) {
+  $padding: #{$border + $gap};
+  $gradient-border: radial-gradient(50% 50%, black calc(100% - #{$offset}), transparent calc(100% - #{$border}));
+
+  // Define the gradient layers with inlined values
+  $background-gradient: (
+          radial-gradient(100% 100% at 0 0, transparent calc(99% - #{$border}), #{$color} calc(100% - #{$border}) 99%, transparent) calc(100% + #{$offset}) calc(100% + #{$offset}),
+          radial-gradient(100% 100% at 100% 0, transparent calc(99% - #{$border}), #{$color} calc(100% - #{$border}) 99%, transparent) calc(0% - #{$offset}) calc(100% + #{$offset}),
+          radial-gradient(100% 100% at 0 100%, transparent calc(99% - #{$border}), #{$color} calc(100% - #{$border}) 99%, transparent) calc(100% + #{$offset}) calc(0% - #{$offset}),
+          radial-gradient(100% 100% at 100% 100%, transparent calc(99% - #{$border}), #{$color} calc(100% - #{$border}) 99%, transparent) calc(0% - #{$offset}) calc(0% - #{$offset})
+  );
+
+  border-radius: 50%;
+  cursor: pointer;
+  padding: $padding;
+  border: #{$offset} solid transparent;
+  mask: $gradient-border;
+  background: $background-gradient;
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+  transition: 0.4s;
+
+  &:hover {
+    background-position:
+            calc(100% + 0px) calc(100% + 0px),
+            calc(0% - 0px) calc(100% + 0px),
+            calc(100% + 0px) calc(0% - 0px),
+            calc(0% - 0px) calc(0% - 0px);
+  }
+}
+
+.contacts {
+  padding-top: 1rem;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+  grid-auto-rows: auto;
+
+  @media (max-width: 700px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (max-width: 550px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .contact {
+    background-color: lighten($background-color, 4%);
+
+    .profile-img {
+      img {
+        position: relative;
+        width: 90%;
+        bottom: 71.4%;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -5vw;
+
+        border-radius: 50%;
+        border: transparent 4px solid;
+      }
+    }
+
+    .profile-info {
+      h2 {
+        position: relative;
+        font-size: 1.5rem;
+        text-align: center;
+      }
+
+      p {
+        background-color: initial;
+        text-align: center;
+        font-style: italic;
+        font-family: serif;
+        font-size: 0.8rem;
+        margin: 0;
+      }
+    }
+
+    .social-links {
+      text-align: center;
+      color: $primary-color-5;
+      margin: 10px auto;
+
+      a {
+        padding: 0 10px;
+
+        &:hover {
+          color: $primary-color-5;
+          transform: scale(1.2);
+        }
+      }
+    }
+
+    &.male {
+      .profile-img img {
+        @include animated-border($primary-color-2, 0.2vw, 2vw, 0.5vw);
+      }
+
+      .profile-info h2 {
+        color: $primary-color-2;
+      }
+
+      .social-links {
+        a {
+          color: $primary-color-1;
+
+          &:hover {
+            color: $primary-color-2;
+          }
+        }
+      }
+    }
+
+    &.female {
+      .profile-img img {
+        @include animated-border($primary-color-4, 0.2vw, 2vw, 0.5vw);
+      }
+
+      .social-links {
+        a {
+          color: $primary-color-4;
+
+          &:hover {
+            color: $primary-color-0;
+          }
+        }
+      }
+    }
+  }
+}

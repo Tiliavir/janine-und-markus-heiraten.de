@@ -1,4 +1,7 @@
 /resources/
 /public/
+/html/
+
+/static/.htaccess
 /.hugo_build.lock
 /DO-NOT-COMMIT.md

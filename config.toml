@@ -1,36 +1,27 @@
-## -----------------------------------------------
-## Basic Configuration
-## -----------------------------------------------
+title = "Janine und Markus heiraten"
+copyright = "{year}"
 
 theme = "hugo-story"
 
-## -----------------------------------------------
-## Publish
-## -----------------------------------------------
-
 relativeURLs = "true"
-#canonifyURLs = "true"
+canonifyURLs = "true"
 
-# Local
 baseURL = "/"
 publishDir = "public"
 
-# Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
-
-
-## -----------------------------------------------
-## Hugo Built-in Features
-## -----------------------------------------------
-
-disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-# googleAnalytics = "your-google-analytics-id"
-
-## -----------------------------------------------
-## Site Parameters
-## -----------------------------------------------
+disableKinds = ["taxonomy", "section"]
 
 [Params]
+description = "Ein Leben lang ..."
+logo = "images/banner.jpg"
+favicon = true
 
 [Params.social]
+github = "https://github.com/Tiliavir/wedding"
+email = "janine-und-markus-heiraten@outlook.com"
+#instagram = "https://instagram.com"
+#linkedin = "https://linkedin.com"
+#telegram = "https://telegram.org"
+
+[markup.goldmark.renderer]
+unsafe = true # Allow HTML in md files

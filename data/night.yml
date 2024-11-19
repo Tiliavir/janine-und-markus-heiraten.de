@@ -1,0 +1,19 @@
+style: "style5 orient-center content-align-left image-position-center image-position-top onscroll-image-fade-in"
+id: "night"
+title : "Übernachtung"
+isMarkdown: true
+content: |
+  Nach einem ausgelassenen Fest möchtet ihr vielleicht nicht mehr nach Hause fahren? Kein Problem! Die Lafette
+  verfügt über mehrere gemütliche Gästezimmer, die wir für unsere Hochzeitsgäste vorreserviert haben. Diese könnt ihr
+  über uns buchen.
+  
+  Auch in der direkten Umgebung gibt es zahlreiche Unterkünfte für jeden Geschmack. Von charmanten
+  Pensionen über komfortable Hotels bis hin zu privaten Ferienwohnungen ist alles dabei. Die meisten Unterkünfte
+  befinden sich in einem Umkreis weniger Gehminuten.
+  
+  Da der Spätsommer eine beliebte Reisezeit in der Region ist, empfehlen wir, die Unterkunft frühzeitig zu buchen. Gerne
+  stellen wir eine Liste mit ausgewählten Unterkünften zur Verfügung – sprecht uns einfach an!
+  
+  _Ein kleiner Tipp_: Einige Hotels bieten spezielle Arrangements mit späterem Check-out am nächsten Tag.
+  So kann man den Morgen nach der Feier gemütlich angehen lassen ;-)
+image: "images/spotlight01.jpg"

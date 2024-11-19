@@ -1,0 +1,43 @@
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "schedule"
+title : "Tagesablauf"
+isMarkdown: true
+content: |
+  Wir haben für unseren Hochzeitstag ein Programm zusammengestellt, das uns durch die schönsten Momente begleitet.
+  Hier ist der Ablauf des Tages:
+
+  ### 10:00 Uhr – First Look
+
+  Der Tag beginnt mit einem emotionalen Moment: dem First Look. Ein ganz besonderer Augenblick, den wir uns nur für uns
+  zwei nehmen.
+
+  ### 11:00 Uhr – Fotoshooting
+  
+  Im Anschluss folgt das Fotoshooting. Unsere Erinnerungen an diesen besonderen Tag werden hier in wunderschönen Bildern
+  festgehalten, welche wir euch im Nachgang gerne zur Verfügung stellen. Insbesondere während der Trauung bitten wir
+  euch deshalb, aufs Fotos schiessen zu verzichten.
+  
+  ### 13:00 Uhr – Freie Trauung
+  
+  Die Zeremonie findet um 13:00 Uhr statt. Unsere freie Trauung im malerischen Garten des Gasthof Lafette wird der
+  feierliche Höhepunkt unseres Tages.
+  
+  ### 15:00 Uhr – Sektempfang
+  
+  Nach der Trauung laden wir euch zu einem Sektempfang ein, bei dem wir auf unsere Zukunft anstoßen und die ersten
+  Gratulationen entgegennehmen.
+  
+  ### 18:00 Uhr – Einlass
+  
+  Ab 18:00 Uhr beginnt der Einlass in den festlich geschmückten Saal. Hier wird sich alles für den Abend vorbereiten.
+  
+  ### 19:00 Uhr – Essen
+  
+  Um 19:00 Uhr servieren wir das Hochzeitsessen. Genießt ein festliches Menü mit Köstlichkeiten, die für jeden Geschmack
+  etwas bieten.
+  
+  ### 22:00 Uhr – Party
+  
+  Ab 22:00 Uhr wird die Tanzfläche eröffnet! Lasst uns gemeinsam feiern und diesen Tag mit einer unvergesslichen Part
+  ausklingen lassen.
+image: "images/spotlight03.jpg"

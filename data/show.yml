@@ -1,0 +1,16 @@
+style: "style1 orient-left content-align-left align-left"
+id: "show"
+title: Lust auf einen Beitrag?
+isMarkdown: true
+content: |
+  Möchtet ihr unseren besonderen Tag mit einem eigenen Beitrag bereichern? Ob lustige Einlage, musikalische Darbietung,
+  kreative Überraschung oder andere Ideen – wir freuen uns über (fast) jeden Programmpunkt, der unsere Feier noch
+  unvergesslicher macht!
+  
+  Damit alles reibungslos ablaufen kann, übernehmen unsere Trauzeugen Annika und Alex die
+  zeitliche Koordination und vermeiden Dopplungen. Sie sind eure Ansprechpartner für alle Fragen rund um
+  Programmbeiträge und helfen euch gerne bei der Organisation. Meldet euch am besten frühzeitig bei ihnen, um einen
+  passenden Zeitslot zu sichern.
+button:
+  label: "Sprecht uns an"
+  link: "#contact"
