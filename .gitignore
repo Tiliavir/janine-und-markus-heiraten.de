@@ -3,5 +3,6 @@
 /html/
 
 /static/.htaccess
+/static/.htpasswd
+
 /.hugo_build.lock
-/DO-NOT-COMMIT.md
