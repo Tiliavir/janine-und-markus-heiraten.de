@@ -1,43 +1,40 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "schedule"
-title : "Tagesablauf"
+title: "Tagesablauf"
 isMarkdown: true
+image: "images/spotlight03.webp"
 content: |
-  Wir haben für unseren Hochzeitstag ein Programm zusammengestellt, das uns durch die schönsten Momente begleitet.
-  Hier ist der Ablauf des Tages:
+  ### 14:00 Uhr – Freie Trauung
 
-  ### 10:00 Uhr – First Look
+  Die Zeremonie findet um 14:00 Uhr statt. Unsere freie Trauung auf der Wiese direkt an der Eventscheune wird der
+  feierliche Höhepunkt unseres Tages. Ihr könnt euch auch auf Live-Musik freuen.
 
-  Der Tag beginnt mit einem emotionalen Moment: dem First Look. Ein ganz besonderer Augenblick, den wir uns nur für uns
-  zwei nehmen.
+  Damit wir die Zeremonie in voller Aufmerksamkeit und Verbundenheit erleben können, bitten wir euch bereits jetzt,
+  eure Handys während der freien Trauung nicht zu benutzen.
 
-  ### 11:00 Uhr – Fotoshooting
-  
-  Im Anschluss folgt das Fotoshooting. Unsere Erinnerungen an diesen besonderen Tag werden hier in wunderschönen Bildern
-  festgehalten, welche wir euch im Nachgang gerne zur Verfügung stellen. Insbesondere während der Trauung bitten wir
-  euch deshalb, aufs Fotos schiessen zu verzichten.
-  
-  ### 13:00 Uhr – Freie Trauung
-  
-  Die Zeremonie findet um 13:00 Uhr statt. Unsere freie Trauung im malerischen Garten des Gasthof Lafette wird der
-  feierliche Höhepunkt unseres Tages.
-  
   ### 15:00 Uhr – Sektempfang
+
+  Nach der Trauung laden wir euch zu einem Sektempfang ein, bei dem wir auf unsere Zukunft anstoßen und gerne eure
+  Gratulationen entgegennehmen. Ein Highlight, auf das wir uns bereits jetzt freuen ist das Ständchen unserer beiden
+  Musikvereine: MFK Teningen und MV Wollbach.
+
+  Während des Sektempfanges gibt es auch die Möglichkeit für den ein oder anderen Gastbeitrag.
+
+  ### 18:00 Uhr – Scheunenöffnung
+
+  Wir verabschieden uns von allen Sektempfang-Gästen und gehen gemeinsam mit euch in die festlich geschmückte Scheune.
   
-  Nach der Trauung laden wir euch zu einem Sektempfang ein, bei dem wir auf unsere Zukunft anstoßen und die ersten
-  Gratulationen entgegennehmen.
-  
-  ### 18:00 Uhr – Einlass
-  
-  Ab 18:00 Uhr beginnt der Einlass in den festlich geschmückten Saal. Hier wird sich alles für den Abend vorbereiten.
-  
-  ### 19:00 Uhr – Essen
-  
-  Um 19:00 Uhr servieren wir das Hochzeitsessen. Genießt ein festliches Menü mit Köstlichkeiten, die für jeden Geschmack
-  etwas bieten.
-  
+  ### 18:30 Uhr – Essen
+
+  Genießt ein festliches Buffet mit Köstlichkeiten, die für jeden Geschmack etwas bieten. Zwischen den Gängen bietet
+  sich wieder die Möglichkeit für Gastbeiträge.
+
   ### 22:00 Uhr – Party
-  
-  Ab 22:00 Uhr wird die Tanzfläche eröffnet! Lasst uns gemeinsam feiern und diesen Tag mit einer unvergesslichen Part
-  ausklingen lassen.
-image: "images/spotlight03.jpg"
+
+  Gegen 22:00 Uhr planen wir die Tanzfläche mit unserem Hochzeitstanz zu eröffnen! Lasst uns gemeinsam feiern und
+  diesen Tag mit einer unvergesslichen Party ausklingen lassen.
+
+  ### 02:00 - Ende
+
+  Unsere Feier endet offiziell um 2:00 Uhr. Bis dahin wollen wir gemeinsam lachen, tanzen und den Abend in vollen
+  Zügen genießen.

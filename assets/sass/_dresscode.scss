@@ -1,0 +1,17 @@
+@import "variables";
+
+.color-circle-bride,
+.color-circle-groom {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.color-circle-bride {
+  background-color: #fff;
+}
+
+.color-circle-groom {
+  background-color: #020;
+}

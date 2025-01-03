@@ -1,0 +1,17 @@
+style: "style1 orient-right content-align-left align-left onscroll-image-fade-in"
+id: "dresscode"
+title: "Dresscode: Abendgarderobe"
+isMarkdown: true
+image : "images/spotlight05.webp"
+content: |
+  Für unseren großen Tag wünschen wir uns eine festliche Atmosphäre, und daher bitten wir euch, in Abendgarderobe zu
+  erscheinen. Für die Damen bedeutet dies ein langes Abendkleid oder ein stilvolles Cocktailkleid, für die Herren einen
+  Anzug oder Smoking.
+
+  Alle Farben sind erlaubt, mit zwei Ausnahmen: Bitte verzichtet auf Weiß, da diese Farbe der Braut vorbehalten ist.
+  Herren bitten wir zudem, auf den Grünton des Bräutigams zu verzichten.
+  
+  Die Farben des Brautpaares sind:
+  
+  <span class="color-circle-bride"></span>
+  <span class="color-circle-groom"></span>

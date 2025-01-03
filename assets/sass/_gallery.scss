@@ -1,0 +1,27 @@
+.gallery {
+  .inner {
+    article {
+      height: 300px;
+
+      .caption {
+        p {
+          opacity: 0.4;
+        }
+      }
+
+      & > a {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        & > img {
+          min-height: 100%;
+          width: 100%;
+          object-fit: cover;
+          object-position: center;
+        }
+      }
+    }
+  }
+}
