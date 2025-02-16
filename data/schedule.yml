@@ -1,6 +1,6 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-id: "schedule"
-title: "Tagesablauf"
+id: schedule
+title: Tagesablauf
 isMarkdown: true
 image: "images/spotlight03.webp"
 content: |

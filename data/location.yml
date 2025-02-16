@@ -1,6 +1,6 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-id: "location"
-title : "Location"
+id: location
+title : Location
 isMarkdown: true
 content: |
   Unsere Hochzeit findet in der wunderschönen Lafette in Hinterzarten statt:
