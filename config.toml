@@ -19,9 +19,6 @@ favicon = true
 [Params.social]
 github = "https://github.com/Tiliavir/wedding"
 email = "janine-und-markus-heiraten@outlook.com"
-#instagram = "https://instagram.com"
-#linkedin = "https://linkedin.com"
-#telegram = "https://telegram.org"
 
 [markup.goldmark.renderer]
-unsafe = true # Allow HTML in md files
+unsafe = true
