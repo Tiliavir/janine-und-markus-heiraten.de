@@ -15,14 +15,14 @@ contacts:
     image: janine
     sex: female
     mobile: "+41 79 610 48 33"
-    mail: "janine-und-markus-heiraten@outlook.com"
+    mail: "janine-und-markus-heiraten@outlook.de"
   - name: Markus
     description:
     image: markus
     sex: male
     phone: "+49 1520 270 9712"
     mobile: "+41 79 870 86 29"
-    mail: "janine-und-markus-heiraten@outlook.com"
+    mail: "janine-und-markus-heiraten@outlook.de"
   - name: Alex
     description:
     image: alex

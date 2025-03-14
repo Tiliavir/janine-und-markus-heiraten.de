@@ -18,7 +18,7 @@ favicon = true
 
 [Params.social]
 github = "https://github.com/Tiliavir/wedding"
-email = "janine-und-markus-heiraten@outlook.com"
+email = "janine-und-markus-heiraten@outlook.de"
 
 [markup.goldmark.renderer]
 unsafe = true
